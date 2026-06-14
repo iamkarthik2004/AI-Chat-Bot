@@ -2,7 +2,12 @@
 
 A simple AI-powered chatbot built using **Python**, **Streamlit**, and **Google Gemini API**. The chatbot provides intelligent and natural responses to user queries through an interactive web interface.
 
----
+## 🎥 Demo Video
+
+Watch the chatbot in action:
+
+[Demo Video](https://youtu.be/Jtk518Z3gyY?si=5tI8CIgotAXILKQZ)
+
 
 ## 🚀 Features
 
